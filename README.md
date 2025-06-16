@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is first Git Repository.
+Author - Abhinav Tiwari
 
 <!--
 **abhinavtiwari28/abhinavtiwari28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

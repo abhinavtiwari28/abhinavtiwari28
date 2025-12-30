@@ -3,8 +3,11 @@
 
 **Employment Management System** :- https://employmentmangementsystem-byabhinav.netlify.app
 <br>
+Object Detection :- https://objectdetectionproject-byabhinav.netlify.app/
+<br>
 Currency Converter :- https://currencyconverter-byabhinav.netlify.app/
 <br>
+
 
 <!--
 **abhinavtiwari28/abhinavtiwari28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

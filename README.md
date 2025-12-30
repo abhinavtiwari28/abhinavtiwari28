@@ -3,7 +3,7 @@
 
 **Employment Management System** :- https://employmentmangementsystem-byabhinav.netlify.app
 <br>
-**Currency Converter :- https://currencyconverter-byabhinav.netlify.app/
+Currency Converter :- https://currencyconverter-byabhinav.netlify.app/
 <br>
 
 <!--
